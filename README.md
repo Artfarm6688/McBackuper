@@ -1,4 +1,4 @@
-# McBackuper v1.0.0 🛡️
+# McBackuper 🛡️
 
 ![McBackuper Banner](https://github.com/Artfarm6688/McBackuper/blob/main/McBackuper-Banner.png)
 

@@ -1,0 +1,28 @@
+# McBackuper License 1.0
+# by Art_Farm
+
+## 1. Original Code
+
+The original, unmodified code and binaries of "McBackuper" may ONLY be hosted and distributed via the official repository: https://github.com/Artfarm6688/McBackuper
+Mirroring or redistributing the original software on other platforms or websites without the explicit written permission of the author is STRICTLY PROHIBITED.
+
+## 2. Modifications and Forks
+
+You ARE ALLOWED to create forks and modified versions of McBackuper, provided that:
+
+- The modified version is NOT sold or distributed under the name "McBackuper" (see Section 3: Trademark).
+- You provide a prominent notice stating that the software is a modified derivative of the original McBackuper.
+- You include a link back to the official source repository.
+- Your fork's code is NOT intended to facilitate illegal activities or bypass security measures.
+
+Violation of this section automatically terminates your right to use or modify any part of the McBackuper code.
+
+## 3. Trademark and Naming
+
+The name "McBackuper" is a trademark of Art_Farm.
+- You may not use the name "McBackuper" for your forks or derivative works.
+- Suggested naming for forks: "[Your Name]'s backup tool, based on McBackuper".
+
+## 4. Non-Commercial Use
+
+Forks and original source code may not be used for commercial resale without a separate, written agreement with the author.
